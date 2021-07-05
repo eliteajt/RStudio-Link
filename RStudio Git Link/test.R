@@ -1,0 +1,6 @@
+print("Hello, I am Jarred.")
+print("I am currently taking BS Computer Engineering")
+print("I have recently been watching Anime and I love it")
+print("My fave game is To the Moon")
+print("I play FPS & story games")
+print("That is all about me")
