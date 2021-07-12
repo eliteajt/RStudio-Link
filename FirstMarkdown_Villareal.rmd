@@ -1,0 +1,39 @@
+---
+title: "First Markdown Assignment"
+author: "Shan Mikel Villareal"
+date: "7/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## **WHY DO WE NEED TO STUDY AND ANALYZE DATA?**
+
+>Data is an essential part of our lives. Different people research every day to find anything efficient that will improve the quality of life. In order to do that, data is necessary. For example, natural phenomena are unpredictable. However, because of the data we gathered in the past phenomena, we are able to improve on our flaws and shortcomings as people. Different people were able to conduct plans, programs, and procedures that will help us prepare for other disasters.
+>Another example would be for businesses. Data is beneficiary to a lot of companies because it helps them to find the current trends that people enjoy. With that, they will be able to refine their old plans of action or make a new strategy on how to attract customers to avail their products and services.
+See more... [1](https://www.analytixlabs.co.in/blog/why-do-we-need-data-science/), [2](https://www.promptcloud.com/blog/can-you-imagine-a-world-without-data/)
+
+
+## **APPLICATION OF DATA SCIENCE IN OUR LIVES**
+
+>Nowadays, people often use the internet in searching for the things they want. Sometimes, we cannot help but notice that there are a lot of advertisements in the different social media we use. There are ads in Facebook, YouTube videos, Twitter, and a lot more. In due time, these ads seem to align with our interests. These ads are called [targeted ads](https://medium.com/@araoyeoluwasegunvhictor/the-application-of-data-science-in-targeted-advertising-e81c1f7f5b62) and they are directed towards people with certain traits that fit the product or service that is being promoted. If you like to play a lot of games, you will see a lot more video game ads in your social media. If you fancy to like online shopping, a lot more applications of the like appear. It is because of everything you click, download, or watch. They are the data gathered by the different media and in turn, they will use it to advertise their products on you and see if you will be attracted to it or not.
+
+
+## **DATA SCIENCE TOPIC PROPOSAL**
+
+#### *Data Science Topic:*
+>Detection of Fake News Using Artificial Intelligence in the Philippines
+
+#### *Description of the Topic:*
+>Nowadays, people mostly rely on using the internet to gather information, especially during this pandemic. Information is easily gathered in the internet, but because of its easy accessibility, sometimes, people are misinformed because of illegitimate articles that they have read in the internet. Fake news is rampant not only in our country, but also in the world. A lot of [people fall for fake news](https://technology.inquirer.net/87850/86-of-net-users-fall-for-fake-news) in the world. People fall for fake news especially on Facebook. In addition to that, Filipinos are also [prone to fake news](https://mb.com.ph/2021/05/06/filipino-youth-vulnerable-to-fake-news-misinformation-study/). This research would help Filipinos to be rightly informed about the events that are happening around us.
+
+#### *Availability of Data:*
+>Data will be collected with thorough research. Different instances of identifying real and fake news in the past will be collected as data and used to try to create an Artificial Intelligence that will detect misinformation in different news.
+
+#### *Needed Statistical Methods:*
+>A mix of descriptive and inferential statistics will be used.
+
+#### *Beneficiaries of this Study:*
+>A lot of people will benefit from this study. If this research is successful, this will help the Filipinos to compare different news and tell which ones are legitimate and which ones are not. Researchers may also use this topic to bridge the gaps that this study will have. This will also help to give credit those people, especially journalists, who gave their hard work in relaying information to the masses.
