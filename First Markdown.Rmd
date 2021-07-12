@@ -1,0 +1,86 @@
+---
+title: "First Markdown"
+author: "Cucio, Quintos, Tan, Villar, Villareal"
+date: "7/12/2021"
+output:
+  html_document:
+   theme: darkly
+   highlight: monochrome
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+![Data Science](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
+
+* #### **Aside from the reasons mentioned in class, why do we need to study and analyze data?**
+
+*Cucio, Dranreb James*  
+- Studying and analyzing data is important as it will give you an eye opener on the data you have. With that, you can have a preliminary information about your data that will aid you in forming strategies to solve specific problems.
+
+*Quintos, Mikael Cholo*  
+- Years pass by and data continue to stock up, and with each year, the world inevitably evolves and we need to keep up and adapt to its changes. We need to turn these raw data into useful data. That could be possible with data science where we analyze, evaluate, and arrange these data, in order to gain ideas, insights and knowledge about a certain topic, which would later then help improve the quality of life and help us adapt with the ever-changing environment we live in.
+
+*Tan, Adriel Jarred*  
+- Data analysis is a powerful tool for the past, present and future. Past historical data sets and analytics is dug up and analyzed even further. With this, predictions can continue to be more accurate as analytic tools are improved. Future disasters, pandemics and emergencies can be evaded or at least prepared for in advance through data science. Future trends can be hypothesized through data science and can be taken advantage by companies or organizations that implement them to be ahead of the pack which in turn leads to success.
+
+*Villar, John Michael*  
+- **The Lens to See in the Data-Driven World**.
+It is important to study and analyze data because this era is the age of the data-driven world. Most information that we would get are in the forms of data. If we do not know how to study and analyze such, we could get confused and might even be misled when other people present the information to us. If we can analyze data properly, we can make proper decisions regarding the information that we get. This way, we can make the most of the data that is available in this day and age.
+
+*Villareal, Shan Mikel*  
+- Data is an essential part of our lives. Different people research every day to find anything efficient that will improve the quality of life. In order to do that, data is necessary. For example, natural phenomena are unpredictable. However, because of the data we gathered in the past phenomena, we are able to improve on our flaws and shortcomings as people. Different people were able to conduct plans, programs, and procedures that will help us prepare for other disasters.  
+- Another example would be for businesses. Data is beneficiary to a lot of companies because it helps them to find the current trends that people enjoy. With that, they will be able to refine their old plans of action or make a new strategy on how to attract customers to avail their products and services.
+See more... [1](https://www.analytixlabs.co.in/blog/why-do-we-need-data-science/), [2](https://www.promptcloud.com/blog/can-you-imagine-a-world-without-data/)
+
+
+* #### **Cite at least one instance or application where data science was used and contributed on policy-making, day-to-day decisions, knowing market trends, and scientific researches.**  
+
+*Cucio, Dranreb James*  
+- One instance that data science is applied is in *preferences*. Companies such as Google and Netflix collect our data of what we search in order to recommend more videos based on what we have searched already. Data science is applied here in order to predict what videos or items in the search bar would we like next.
+
+*Quintos, Mikael Cholo*   
+- One important application of data science that is one of the most crucial today is with *healthcare*. This recent pandemic that recently took the world by storm pose a threat to the health of everyone and we need to find a solution or an alternative way in order to prevent the spread and lethality of the virus that could make the whole situation worse, and that solution involves data science. With data science, we are able to make an accurate estimation of the severity of the virus, as well as its origin, transmission, incubation and so forth, helping us decide our next move, taking us one step ahead that would prepare us for what could happen.
+
+*Tan, Adriel Jarred*   
+- Data science is applied in *virtual assistants* such as Google Assistant, Apple Siri, Microsoft Cortana  and Amazon Alexa. The artificial Intelligence or AI improves as the algorithms improve from the data fed into these assistants. As time goes on, these assistants keep on “improving” as more data from the users are accumulated which in turn will, in theory, improve and ease the livelihoods of their users.
+
+*Villar, John Michael*  
+- **To Find the Tools that Suits You**.
+Since most information is available on the internet, the usual things that we do everyday are also being accomplished digitally. This includes but not limited to taking notes, calculating, and drawing. However, doing these things are not so different even if done in the traditional way because these activities still require tools or a medium for people to work upon. This is where apps and data science come in. Through the Play Store and App Store’s algorithms, people can make an informed decision on which apps are the most efficient and most effective for their decisions. These algorithms were created from the reviews and number of downloads that it gets from its consumers. With this method, it creates a cycle where the consumers benefit from the review of other consumers, while the app developers tailor their creations to the demands that show up on the reviews they receive.
+
+*Villareal, Shan Mikel*   
+- Nowadays, people often use the internet in searching for the things they want. Sometimes, we cannot help but notice that there are a lot of advertisements in the different social media we use. There are ads in Facebook, YouTube videos, Twitter, and a lot more. In due time, these ads seem to align with our interests. These ads are called [targeted ads](https://medium.com/@araoyeoluwasegunvhictor/the-application-of-data-science-in-targeted-advertising-e81c1f7f5b62) and they are directed towards people with certain traits that fit the product or service that is being promoted. If you like to play a lot of games, you will see a lot more video game ads in your social media. If you fancy to like online shopping, a lot more applications of the like appear. It is because of everything you click, download, or watch. They are the data gathered by the different media and in turn, they will use it to advertise their products on you and see if you will be attracted to it or not.
+
+
+* #### **Propose at least one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.**
+
+*Cucio, Dranreb James*  
+- *Data Exploration on Google Play Store Apps*. On this topic, the group will explore data available from Kaggle. The dataset is found in this [link](https://www.kaggle.com/gauthamp10/google-playstore-apps). Specifically, the study will analyze the relationship of the ratings of applications, the number of downloads, and the availability of the application (whether free or not). Statistical data visualization of bar graphs, boxplots, or scatterplots may be utilized and for analysis, linear regression and chi-squared would be opted. Lastly, this study would greatly benefit users to know what apps they are missing out, and for future and current game developers to gain insights from the and its trends.
+    
+*Quintos, Mikael Cholo*   
+- One topic that I want to pursue is about the future of our careers. When we finish college and graduate, we need to start looking for a job as it is what would set us forward in life furthermore and secure our future, and that job should not just pay good, we should also love every single day doing it and make sure that it makes us happy. The topic I want to take on is about a career recommendation system that would be available to every person that could access it. It aims to recommend the perfect job for you and if their is a company interested in hiring one. This is not just a servey, it thoroughly go through all the contents you look at in the internet, analyzes them and arranges a pattern based on the things you visit in a certain page or website, showing you what there is available for your career, making sure that you would land a job which fits you and where you do what you really love. This is for all the people who is having a hard time finding a job after graduating, and the people who are really not sure what they want to do or what could fit them, because many people really do experience these problems and we need to help them so they can have assurance about their future and make sure that it is secured.  
+
+*Tan, Adriel Jarred*   
+- *The Popularity of Cryptocurrency.*  The data of the most used cryptocurrencies and their relationship to their market value & share will be gathered. Descriptive and inferential statistics will be used as statistical methods to analyze the data. Data about cryptocurrency is widely available in the internet such as [Google trends](https://trends.google.com/trends/?geo=PH), [CoinMarketCap](https://coinmarketcap.com/) & [Statista](https://www.statista.com/) . Investors, economists and anyone who is interested in cryptocurrency will benefit from this study. This is essential in the future as cryptocurrency gains traction in more and more countries and becomes more widely accepted as payments in banks and stores.  
+
+*Villar, John Michael*   
+- **Sorting Facebook Posts**.
+One data science I can think of is making a program that could sort Facebook posts. It is like making a trending section in Facebook where it would show the most reacted, most commented, or most shared post. This could also be fine-tuned by adding a selection of hashtags or using it only for a specific group or page. This could also be made more specific by adding a time range such as showing the most reacted post for a week, month, year, or a custom time-range. This could also be made more fine-tuned to the interests of the searcher by having the program search for specific words or topics, or the specific reacts that were prevalent in a post. The data will be retrieved from certain Facebook pages so that the numbers will not go overboard and that the number of posts can be controlled. This will benefit many Facebook users for many purposes. This will benefit the vloggers and entertainers in Facebook because they would be more aware of what’s trending and what’s the things that can give them more engagements and increase their reach. This is also beneficial for the viewers as they can easily find the things that interest them and they might also find friends who share the same interests. This is very advantageous to people who advertise and sell product because they would know which posts can give them the most reach and what product should they be investing upon.  
+
+*Villareal, Shan Mikel*  
+
+##### *Data Science Topic:*
+> Detection of Fake News Using Artificial Intelligence in the Philippines
+
+##### *Description of the Topic:*
+> Nowadays, people mostly rely on using the internet to gather information, especially during this pandemic. Information is easily gathered in the internet, but because of its easy accessibility, sometimes, people are misinformed because of illegitimate articles that they have read in the internet. Fake news is rampant not only in our country, but also in the world. A lot of [people fall for fake news](https://technology.inquirer.net/87850/86-of-net-users-fall-for-fake-news) in the world. People fall for fake news especially on Facebook. In addition to that, Filipinos are also [prone to fake news](https://mb.com.ph/2021/05/06/filipino-youth-vulnerable-to-fake-news-misinformation-study/). This research would help Filipinos to be rightly informed about the events that are happening around us.
+
+##### *Availability of Data:*
+> Data will be collected with thorough research. Different instances of identifying real and fake news in the past will be collected as data and used to try to create an Artificial Intelligence that will detect misinformation in different news.
+
+##### *Needed Statistical Methods:*
+> A mix of descriptive and inferential statistics will be used.
+
+##### *Beneficiaries of this Study:*
+> A lot of people will benefit from this study. If this research is successful, this will help the Filipinos to compare different news and tell which ones are legitimate and which ones are not. Researchers may also use this topic to bridge the gaps that this study will have. This will also help to give credit those people, especially journalists, who gave their hard work in relaying information to the masses.
