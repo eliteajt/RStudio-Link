@@ -1,0 +1,19 @@
+---
+title: "First Markdown"
+author: 'Cucio, Dranreb James; '
+date: "7/12/2021"
+output:
+  html_document:
+    df_print: paged
+---
+
+* * *
+
+* **Aside from the reasons mentioned in class, why do we need to study and analyze data?**
+    - Studying and analyzing data is important as it will give you an eye opener on the data you have. With that, you can have a preliminary information about your data that will aid you in forming strategies to solve specific problems.
+    
+*  **Cite at least one instance or application where data science was used and contributed on policy-making, day-to-day decisions, knowing market trends, and scientific researches.**
+    - One instance that data science is applied is in *preferences*. Companies such as Google and Netflix collect our data of what we search in order to recommend more videos based on what we have searched already. Data science is applied here in order to predict what videos or items in the search bar would we like next.
+
+* **Propose at least one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.**
+    1. *Data Exploration on Google Play Store Apps*. On this topic, the group will explore data available from Kaggle. The dataset is found in this [https://www.kaggle.com/gauthamp10/google-playstore-apps](link). Specifically, the study will analyze the relationship of the ratings of applications, the number of downloads, and the availability of the application (whether free or not). Statistical data visualization of bar graphs, boxplots, or scatterplots may be utilized and for analysis, linear regression and chi-squared would be opted. Lastly, this study would greatly benefit users to know what apps they are missing out, and for future and current game developers to gain insights from the and its trends.  
